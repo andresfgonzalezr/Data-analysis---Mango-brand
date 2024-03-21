@@ -1,0 +1,150 @@
+[
+    {
+        "terms": "jackets",
+        "section": "H"
+    },
+    {
+        "terms": "puffers",
+        "section": "H"
+    },
+    {
+        "terms": "pants",
+        "section": "H"
+    },
+    {
+        "terms": "jeans",
+        "section": "H"
+    },
+    {
+        "terms": "sweaters",
+        "section": "H"
+    },
+    {
+        "terms": "cardigans",
+        "section": "H"
+    },
+    {
+        "terms": "hoodies",
+        "section": "H"
+    },
+    {
+        "terms": "sweatshirts",
+        "section": "H"
+    },
+    {
+        "terms": "t-shirts",
+        "section": "H"
+    },
+    {
+        "terms": "overshirts",
+        "section": "H"
+    },
+    {
+        "terms": "linen",
+        "section": "H"
+    },
+    {
+        "terms": "shorts",
+        "section": "H"
+    },
+    {
+        "terms": "suits",
+        "section": "H"
+    },
+    {
+        "terms": "cargo",
+        "section": "H"
+    },
+    {
+        "terms": "blazers",
+        "section": "H"
+    },
+    {
+        "terms": "tracksuits",
+        "section": "H"
+    },
+    {
+        "terms": "coats",
+        "section": "H"
+    },
+    {
+        "terms": "shoes",
+        "section": "H"
+    },
+    {
+        "terms": "bags",
+        "section": "H"
+    },
+    {
+        "terms": "backpack",
+        "section": "H"
+    },
+    {
+        "terms": "blazers",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "jackets",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "dresses",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "skirts",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "cardigans",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "sweaters",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "tops",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "bodysuits",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "t-shirts",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "jeans",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "pants",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "shoes",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "knitwear",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "sweatshirts",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "coats",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "shorts",
+        "section": "M,S,I,T,V"
+    },
+    {
+        "terms": "bags",
+        "section": "M,S,I,T,V"
+    }
+]
